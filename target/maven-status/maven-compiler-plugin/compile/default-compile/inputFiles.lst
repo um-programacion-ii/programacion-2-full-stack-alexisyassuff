@@ -1,0 +1,14 @@
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/HexagonalBasicoApplication.java
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/product/application/service/ProductService.java
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/product/domain/model/Product.java
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/product/domain/ports/in/CreateProductUseCase.java
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/product/domain/ports/in/GetAllProductsUseCase.java
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/product/domain/ports/out/ProductRepository.java
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/product/infrastructure/persistence/entity/ProductEntity.java
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/product/infrastructure/persistence/mapper/ProductMapper.java
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/product/infrastructure/persistence/repository/JpaProductRepository.java
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/product/infrastructure/persistence/repository/JpaProductRepositoryAdapter.java
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/product/infrastructure/web/controller/ProductController.java
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/product/infrastructure/web/dto/ProductRequest.java
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/product/infrastructure/web/dto/ProductResponse.java
+/home/alexis-yassuff/programacion-2-full-stack-MaguiMaluff/src/main/java/com/example/haxagonal/hexagonal_basico/product/infrastructure/web/mapper/ProductDtoMapper.java
